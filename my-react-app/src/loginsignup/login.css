@@ -1,0 +1,187 @@
+
+.back{
+    width: 1598px;
+    height: 1099px;
+    background-color: #162CF0;
+}
+.lo{
+    position: absolute;
+    left: 106px;
+    top: 400px;
+    display: inline;
+    width: 494px;
+    height: 598px;
+}
+.wel{
+    font-size: 36px;
+    font-weight: bold;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
+#btn1{
+    height: 79.43px;
+    width: 438.61px;
+    background-color:#EDE7E7 ;
+    color:grey;
+    border-radius: 20px;
+    font-size: 24px;
+    font-weight: bolder;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    border: none;
+    background-image: url('./google.png');
+    background-size: 50px 50px; /* Adjust size as needed */
+    background-repeat: no-repeat;
+    background-position: 20px center; /* Align image to the left */
+    padding-left: 40px; /* Space for the image */
+    cursor: pointer;
+}
+#btn2{
+    height: 79.43px;
+    width: 438.61px;
+    background-color:#EDE7E7 ;
+    color: grey;
+    border-radius: 20px;
+    font-size: 24px;
+    font-weight: bolder;
+    position: absolute;
+    left: 750px;
+    top: 200px;
+    border: none;
+    background-image: url('./facebook.png');
+    background-size: 50px 50px; /* Adjust size as needed */
+    background-repeat: no-repeat;
+    background-position: 20px center; /* Align image to the left */
+    padding-left: 40px; /* Space for the image */
+    cursor: pointer;
+}
+.go{
+    height: 50.32px;
+    width: 62.06px;
+    position: absolute;
+    left: 728.65px;
+    top: 273.04px;
+}
+.so{
+    background-color: white;
+    width: 998px;
+    height: 1099px;
+    border-radius: 40px;
+    position: absolute;
+    left: 650px;
+
+}
+.p1{
+    position: absolute;
+    left: 200px;
+    top: 55px;
+    display: block;
+    color: white;
+    font-size: 42px;
+    font-weight: bolder;
+}
+.p{
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    display: block;
+    color: white;
+    font-size: 42px;
+    font-weight: bolder;
+}
+.user{
+    font-size: 36px;
+    font-weight: bolder;
+    position: absolute;
+    left: 200px;
+    top: 400px;
+    color: grey;
+}
+.username{
+    width: 502px;
+    height: 57px;
+    border-radius: 80px;
+    position: absolute;
+    left: 200px;
+    top: 450px;
+    font-size: 26px;
+    text-align: center;
+}
+.pas1{
+    font-size: 36px;
+    font-weight: bolder;
+    position: absolute;
+    left: 200px;
+    top: 550px;
+    color: grey;
+}
+.password1{
+    width: 502px;
+    height: 57px;
+    border-radius: 80px;
+    position: absolute;
+    left: 200px;
+    top: 600px;
+    font-size: 26px;
+    text-align: center;
+}
+.rem{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    left: 210px;
+    top: 757px;
+}
+.remember{
+    font-size: 30px;
+    position: absolute;
+    left: 250px;
+    top: 760px;    
+}
+.forgot{
+    font-size: 30px;
+    position: absolute;
+    left: 650px;
+    top: 760px;
+    color: #162CF0; 
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.forgot:hover{
+    color: #162CF0;
+    background-color: white;
+}
+.sign{
+    width: 671.66px;
+    height: 76.95px;
+    background-color: #162CF0;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 20px;
+    border: none;
+    position: absolute;
+    left: 250px;
+    top: 860px;
+    cursor: pointer;
+}
+.dont{
+    color: #0C0808;
+    font-size: 24px;
+    position: absolute;
+    left: 210px;
+    top: 870px;
+}
+.signup{
+    border: none;
+    background-color: white;
+    color: #162CF0;
+    font-size: 24px;
+    position: absolute;
+    left: 460px;
+    top: 870px;
+    cursor: pointer;
+}

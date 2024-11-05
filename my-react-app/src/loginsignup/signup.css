@@ -1,0 +1,54 @@
+.back1{
+    width: 1698px;
+    height: 1099px;
+    background-color: #162CF0;
+}
+.email{
+    font-size: 36px;
+    font-weight: bolder;
+    position: absolute;
+    left: 200px;
+    top: 600px;
+    color: grey;
+}
+.em{
+    width: 502px;
+    height: 57px;
+    border-radius: 80px;
+    position: absolute;
+    left: 200px;
+    top: 650px;
+    font-size: 26px;
+    text-align: center;
+}
+.pas{
+    font-size: 36px;
+    font-weight: bolder;
+    position: absolute;
+    left: 200px;
+    top: 800px;
+    color: grey;
+}
+.password{
+    width: 502px;
+    height: 57px;
+    border-radius: 80px;
+    position: absolute;
+    left: 200px;
+    top: 850px;
+    font-size: 26px;
+    text-align: center;
+}
+.sign{
+    width: 671.66px;
+    height: 76.95px;
+    background-color: #162CF0;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 20px;
+    border: none;
+    position: absolute;
+    left: 150px;
+    top: 960px;
+}

@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #162CF0;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+}
+nav ul{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav li{
+    height: 50px;
+}
+nav a{
+    height: 100%;
+    padding: 0 30px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+nav li:first-child{
+    margin-right: auto;
+}
+.lb{
+    font-size: 56px;
+}
+
+#login{
+    margin-top: 15px;
+    height: 50px;
+    width: 160px;
+    font-size: 32px;
+    color: #162CF0;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+}
+button:hover{
+    background-color:#162CF0;
+    color: white;
+}
+.sy{
+    padding-top: 15%;
+    padding-left: 10% ;
+    display: block;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 55px;
+    font-weight:normal;
+    color: #162CF0;
+    text-align: left;
+}
+.y{
+    padding-left:10% ;
+    display: block;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 55px;
+    font-weight: 500;
+    color: #162CF0;
+    text-align: left;
+}
+.lender{
+    display: block;
+    margin-top: 5%;
+    height: 57px;
+    width: 502px;
+    margin-left:10%;
+    font-size: 32px;
+    color: #162CF0;
+    border-radius: 34px;
+    background-color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.borrower{
+    display: block;
+    margin-top: 2%;
+    height: 57px;
+    width: 502px;
+    margin-left:10%;
+    font-size: 32px;
+    color: #162CF0;
+    border-radius: 34px;
+    background-color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+img{
+    width: 669px;
+    height: 570px;
+    position: absolute;
+    left: 771px;
+    top: 191px;
+}
+.lan{
+    border: #FFFFFF;
+    border-width: 2px;
+    border-style: solid;
+    height: 162px;
+    width: 679px;
+    position: absolute;
+    left: 96px;
+    top: 800px;
+    text-align: center;
+    box-shadow: 5px -5px 10px rgba(0, 0, 0, 0.3);
+}
+.la{
+    border:#FFFFFF;
+    border-width: 2px;
+    border-style: solid;
+    height: 162px;
+    width: 623px;
+    position: absolute;
+    left: 879px;
+    top: 800px;
+    text-align: center;
+    box-shadow: 5px -5px 10px rgba(0, 0, 0, 0.3);
+}
+.box{
+    position: absolute;
+    left: -9px;
+    top: 46px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #162CF0;
+}
