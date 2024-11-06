@@ -1,0 +1,97 @@
+#lw1{
+    position: absolute;
+    top:200px;
+    display: inline;
+    left:20px;
+    width: 9%;
+    height:3%;
+}
+#lw2{
+    position: absolute;
+    top: 200px;
+    color: #162cf0;
+    margin: 0;
+    margin-left: 120px;
+    font-family: sans-serif;
+    font-size:larger;
+    font-weight: 300;
+    left:20px;
+}
+#lw3{
+    position:absolute;
+    top:220px;
+    width: 50%;
+    font-family: sans-serif;
+    left:20px;
+}
+#lw4{
+    display: flex;
+    align-items: center;
+}
+#lw5
+{
+    position: absolute;
+    top:100px ;
+    left:800px;
+    height: 50px;
+    width:50px;
+}
+#lw6
+{
+    position: absolute;
+    top:300px ;
+    left:800px;
+    height: 50px;
+    width:50px;
+}
+#lw7
+{
+    position: absolute;
+    top:500px ;
+    left:800px;
+    height: 50px;
+    width:50px;
+}
+#lw8
+{
+    position: absolute;
+    top:80px ;
+    left:870px;
+    height: 150px;
+    width:300px;
+    font-family: sans-serif;
+}
+#lw9
+{
+    position: absolute;
+    top:280px ;
+    left:870px;
+    height: 100px;
+    width:300px;
+    font-family: sans-serif;
+}
+#lw10
+{
+    position: absolute;
+    top:480px ;
+    left:870px;
+    height: 100px;
+    width:300px;
+    font-family: sans-serif;
+}
+#lw11
+{
+    position: absolute;
+    top:300px;
+    left:50px;
+    height: 400px;
+    width:400px; 
+}
+#lw12
+{
+    position:absolute;
+    top:400px;
+    width: 50%;
+    font-family: sans-serif;
+    left:20px;
+}

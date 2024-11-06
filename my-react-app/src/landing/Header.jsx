@@ -2,20 +2,19 @@ import './style.css'
 function Header()
 {
     return(
-        <header>
-        <nav>
-            <ul>
-                <li class="lb"><a href="#">L&B</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Borrow</a></li>
-                <li><a href="#">Lend</a></li>
-                <li><a href="#">Grievance</a></li>
-                <li><a href="#">Signup</a></li>
-                <li><a href="#">Login</a></li>
-            </ul>
-        </nav>
+        <>
+        <header id="head">
+        <p id="lb"><a href="#">L&B</a></p>
+        <div id="text">
+        <p><a href="#">About</a></p>
+        <p><a href="#">Borrow</a></p>
+        <p><a href="#">Lend</a></p>
+        <p><a href="#">Grievance</a></p>
+        <p><a href="#">Signup</a></p>
+        <p><a href="#">Login</a></p>
+        </div>
         </header>
+        </>
     )
 }
-
 export default Header
