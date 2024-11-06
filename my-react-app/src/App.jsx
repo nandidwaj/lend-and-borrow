@@ -3,7 +3,8 @@ import {BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Login from './loginsignup/login.jsx'
 import Signup from './loginsignup/signup.jsx'
 import ProfileL from './lender/profileL.jsx'
-import DocumentL from './lender/documents.jsx' 
+import DocumentL from './lender/documents.jsx'
+import Dashboard from './lender/dashboard.jsx' 
 function App() {
   return(
     <>
@@ -14,6 +15,7 @@ function App() {
         <Route path="/signup" element={<Signup/>}/>
         <Route path="/profileL" element={<ProfileL/>}/>
         <Route path="/documentL" element={<DocumentL/>}/>
+        <Route path="/dashboard" element={<Dashboard/>}/>
       </Routes>
     </Router>
       </>
